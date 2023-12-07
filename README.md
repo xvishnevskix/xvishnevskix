@@ -66,9 +66,9 @@
     </td>
     <td align="center" width="96"> 
       <a href="#amangeldi-stack" >
-        <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
+        <img src="[https://vitejs.dev/logo.svg](https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg)" width="48" height="48" alt="Vue" />
       </a>
-      <br>Vite
+      <br>Vue
     </td> 
     <td align="center" width="96">
       <a href="#amangeldi-stack">
