@@ -6,4 +6,4 @@
 
 Tech stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvishnevskix&layout=donut&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvishnevskix&layout=donut&theme=github_dark)
