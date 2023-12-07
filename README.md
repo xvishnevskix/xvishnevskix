@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvishnevskix&layout=donut&theme=github_dark)
 
-<h2 align="left" id="debabin-stack">Tech stack</h2>
+<h2 align="left" id="debabin-stack">🔧 Tech stack</h2>
 
 <table width='100%'>
   <tr>
