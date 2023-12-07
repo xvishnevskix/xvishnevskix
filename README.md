@@ -31,15 +31,15 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="48" height="48" alt="Vue" />
       </a>
       <br>Vue
-    </td> 
-  </tr>
-    <tr>
-    <td align="center" width="96"> 
+    </td>
+   <td align="center" width="96"> 
       <a href="#amangeldi-stack" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
     </td>
+  </tr>
+    <tr>
      <td align="center" width="96"> 
       <a href="#amangeldi-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
