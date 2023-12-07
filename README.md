@@ -76,6 +76,12 @@
       </a>
       <br>Tailwind
     </td>
+     <td align="center" width="96">
+      <a href="#amangeldi-stack">
+        <img src="https://www.svgrepo.com/show/354397/storybook-icon.svg" width="48" height="48" alt="Storybook" />
+      </a>
+      <br>Storybook
+    </td>
   </tr> 
     <tr>
      <td align="center" width="96">
