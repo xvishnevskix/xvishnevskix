@@ -38,6 +38,12 @@
       </a>
       <br>Redux
     </td>
+   <td align="center" width="96"> 
+      <a href="#amangeldi-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="48" height="48" alt="Next Js" />
+      </a>
+      <br>Next Js
+    </td>
   </tr>
     <tr>
      <td align="center" width="96"> 
